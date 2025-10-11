@@ -1,4 +1,3 @@
-
 ---
 title: "LCD-Bildschirm"
 date: "2018-10-01T15:00:27.000Z"
