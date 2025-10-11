@@ -33,7 +33,7 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 <!-- infolists -->
 https://www.youtube.com/watch?v=PWh7wkT2Dog
 
- 
+ 
 
 ## Wichtige Links für die ersten Schritte:
 
