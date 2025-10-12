@@ -3,7 +3,7 @@ title: "LCD-Bildschirm"
 date: "2018-10-01T15:00:27.000Z"
 tags: 
   - "output"
-coverImage: "62_lcd-bildschirm.jpg"
+coverImage: "62_lcd-bildschirm.png"
 material_number: "62"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – LCD RGB Backlight"
