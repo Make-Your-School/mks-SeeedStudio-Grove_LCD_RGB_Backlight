@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_LCD_RGB_Ba
 repo_prefix: "mks"
 repo_part: "Grove_LCD_RGB_Backlight"
 embedded_example_file: "examples/Grove_LCD_RGB_Backlight_minimal/Grove_LCD_RGB_Backlight_minimal.ino"
+title: 'LC-Bildschirm'
+status: 'active'
+difficulty: 'recommend'
 ---
 
 
